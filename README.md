@@ -6,11 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0e75b6&style=flat" alt="anjalilongre9625" /> </p>
 
-- 🔭 I’m currently working on DSA **C++**
 
-- 🌱 I’m currently learning **DSA from Striver**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C++,Automation testing**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **anjalilongre349@gmail.com**
 
