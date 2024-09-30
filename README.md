@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="center" src="<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalilongre9625&" alt="anjalilongre9625" /></p>
+<img align="center" src="https://media.tenor.com/T7MJHBjax1IAAAAM/coding-programmer.gif"
 " alt="anjalilongre9625" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0e75b6&style=flat" alt="anjalilongre9625" /> </p>
