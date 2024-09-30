@@ -1,13 +1,15 @@
-
-
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" src="<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalilongre9625&" alt="anjalilongre9625" /></p>
+" alt="anjalilongre9625" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0e75b6&style=flat" alt="anjalilongre9625" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625" alt="anjalilongre9625" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+<p align="left"> <a href="https://twitter.com/anjalilongre01" target="blank"><img src="https://img.shields.io/twitter/follow/anjalilongre01?logo=twitter&style=for-the-badge" alt="anjalilongre01" /></a> </p>
+
+- 🌱 I’m currently learning **DSA,MACHINE LEARNING,OOPS**
 
 - 💬 Ask me about **DSA**
 
@@ -17,6 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/anjalilongre01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjalilongre01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anjali ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali ." height="30" width="40" /></a>
+<a href="https://kaggle.com/anjali31012004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anjali31012004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,8 +28,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/anjalilongre01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anjalilongre01" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalilongre9625&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="anjalilongre9625" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalilongre9625&show_icons=true&locale=en&layout=compact" alt="anjalilongre9625" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="anjalilongre9625" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&locale=en" alt="anjalilongre9625" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalilongre9625&" alt="anjalilongre9625" /></p>
+
