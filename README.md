@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif" alt="anjalilongre9625" width="300" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0e75b6&style=flat" alt="anjalilongre9625" /> </p>
 
@@ -28,6 +27,8 @@
 <p><a href="https://www.buymeacoffee.com/anjalilongre01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anjalilongre01" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalilongre9625&show_icons=true&locale=en&layout=compact" alt="anjalilongre9625" /></p>
+<img align="right" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif" alt="anjalilongre9625" width="300" height="300" />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&locale=en" alt="anjalilongre9625" /></p>
 
