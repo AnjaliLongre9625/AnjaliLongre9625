@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0e75b6&style=flat" alt="anjalilongre9625" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="anjalilongre9625" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625" alt="anjalilongre9625" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=radical&no-frame=true&row=1&column=6" alt="anjalilongre9625" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/anjalilongre01" target="blank"><img src="https://img.shields.io/twitter/follow/anjalilongre01?logo=twitter&style=for-the-badge" alt="anjalilongre01" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/anjalilongre01" target="blank">
+    <img src="https://img.shields.io/twitter/follow/anjalilongre01?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=ff69b4" alt="anjalilongre01" />
+  </a> 
+</p>
 
 - 🌱 I’m currently learning **DSA,MACHINE LEARNING,OOPS**
 
