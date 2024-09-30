@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate coder girl </h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="anjalilongre9625" /> 
@@ -24,7 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anjalilongre01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjalilongre01" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/anjali ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali ." height="30" width="40" /></a>
+
 <a href="https://kaggle.com/anjali31012004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anjali31012004" height="30" width="40" /></a>
 </p>
 
@@ -81,14 +83,12 @@
   </a>
 </p><br><br>
 
-<h3 align="left">Gallery:</h3>
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.tmtGXxkGFzCIdT9i4v0VnQHaEK?rs=1&pid=ImgDetMain" alt="Gallery Image 1" width="400" height="250"/>
   <img src="https://th.bing.com/th/id/OIP.bfNy34ruP1sN1rbROngpbAHaE7?w=626&h=417&rs=1&pid=ImgDetMain" alt="Gallery Image 2" width="400" height="250"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalilongre9625&show_icons=true&locale=en&layout=compact" alt="anjalilongre9625" /></p>
-<img align="right" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif" alt="Coding GIF" width="300" height="300" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&locale=en" alt="anjalilongre9625" /></p>
 
