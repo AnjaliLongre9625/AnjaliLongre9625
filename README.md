@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="center" src="https://media.tenor.com/T7MJHBjax1IAAAAM/coding-programmer.gif"
-" alt="anjalilongre9625" />
+<div align="right">
+    <img align="right" src="https://media.tenor.com/T7MJHBjax1IAAAAM/coding-programmer.gif" alt="anjalilongre9625" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0e75b6&style=flat" alt="anjalilongre9625" /> </p>
 
