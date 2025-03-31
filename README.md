@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">3rd year student at NSUT</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="anjalilongre9625" /> 
