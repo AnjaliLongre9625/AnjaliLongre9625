@@ -10,13 +10,8 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/anjalilongre01" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/anjalilongre01?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=ff69b4" alt="Twitter Follow" />
-  </a>
-</p>
 
-- 🌱 I’m currently learning **DSA, MACHINE LEARNING, OOPS**
+- 🌱 I’m currently learning **DSA AND CORE SUBJECTS **
 - 💬 Ask me about **DSA**
 - 📫 How to reach me: **anjalilongre349@gmail.com**
 
@@ -41,14 +36,6 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/anjalilongre01">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
@@ -70,12 +57,6 @@
 
 ---
 
-<h3 align="left">🗺️ Visitors:</h3>
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorBadge?countColor=%23ff69b4&style=flat-square&path=anjalilongre9625" />
-</p>
-
----
 
 <h3 align="center">💡 Quote of the Day</h3>
 <p align="center">
