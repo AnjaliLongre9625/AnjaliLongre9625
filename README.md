@@ -58,11 +58,3 @@
 ---
 
 
-<h3 align="center">💡 Quote of the Day</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<img align="right" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif" alt="Coding gif" width="300" height="300" />
-
-
