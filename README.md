@@ -58,3 +58,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=redical" alt="GitHub Activity Graph" />
 </p>
+### <h3 align="left">🐍 Watch my contribution graph get eaten by a snake!</h3>
+
+<p align="center">
+  <img src="https://github.com/anjalilongre9625/anjalilongre9625/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
