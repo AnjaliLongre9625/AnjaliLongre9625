@@ -10,8 +10,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning DSA
-- 💬 Ask me about DSA
+- 🌱 I’m currently learning **DSA AND CORE SUBJECTS**
+- 💬 Ask me about **DSA**
 - 📫 How to reach me: **anjalilongre349@gmail.com**
 
 ---
@@ -58,8 +58,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=redical" alt="GitHub Activity Graph" />
 </p>
-### <h3 align="left">🐍 Watch my contribution graph get eaten by a snake!</h3>
+
+---
+
+### 🐍 Watch my contribution graph get eaten by a snake!
 
 <p align="center">
   <img src="https://github.com/anjalilongre9625/anjalilongre9625/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
