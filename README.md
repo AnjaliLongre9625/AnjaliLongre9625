@@ -37,18 +37,11 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats & Top Languages:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalilongre9625&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="vertical-align:middle; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="vertical-align:middle;" />
 </p>
 
 ---
