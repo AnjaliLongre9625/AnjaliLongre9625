@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Enthusiast%20🚀;Aspiring%20Software%20Development%20Engineer%20%28SDE%29%20👩‍💻;Open%20to%20Collaboration!&center=true&width=600&height=45&color=FF69B4&vCenter=true&size=22" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 ### 🚀 About Me
