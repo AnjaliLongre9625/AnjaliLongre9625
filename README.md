@@ -4,11 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
+
+---
 
 - 🌱 I’m currently learning **DSA AND CORE SUBJECTS**
 - 💬 Ask me about **DSA**
@@ -40,8 +46,9 @@
 ### 📊 GitHub Stats & Top Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="vertical-align:middle; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="vertical-align:middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -51,6 +58,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=redical" alt="GitHub Activity Graph" />
 </p>
-
----
-
