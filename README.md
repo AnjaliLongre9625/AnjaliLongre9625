@@ -7,12 +7,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
+
 ---
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **DSA and Core Subjects**
-- 💬 Ask me about **Data Structures and Algorithms**
+- 👩‍💻 Passionate about solving problems and building scalable solutions
+- 🌱 Preparing for **SDE roles** and diving deep into **DSA & CS fundamentals**
+- ✨ Tech enthusiast always curious about new tools & technologies
+- 💬 Let's talk about **coding, open source, or tech careers**
 - 📫 Reach me at: **anjalilongre349@gmail.com**
 
 ---
@@ -25,7 +28,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-longre-573953258/" target="_blank">
@@ -38,7 +41,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,php,nuxt,mysql,linux,aws,selenium,matlab,git" />
