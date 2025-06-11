@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Enthusiast%20🚀;Aspiring%20Software%20Development%20Engineer%20%28SDE%29%20👩‍💻;Open%20to%20Collaboration!&center=true&width=600&height=45&color=FF69B4&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Structures%20%26%20Algorithms%20Enthusiast;Learning%20Core%20Subjects;Open%20to%20Collaboration!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22" />
 </p>
 
 
