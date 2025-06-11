@@ -1,60 +1,63 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Structures%20%26%20Algorithms%20Enthusiast;Learning%20Core%20Subjects;Open%20to%20Collaboration!&center=true&width=500&height=45&color=FF69B4&vCenter=true&size=22" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **DSA and Core Subjects**
+- 💬 Ask me about **Data Structures and Algorithms**
+- 📫 Reach me at: **anjalilongre349@gmail.com**
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=radical&no-frame=true&row=2&column=3" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **DSA AND CORE SUBJECTS**
-- 💬 Ask me about **DSA**
-- 📫 How to reach me: **anjalilongre349@gmail.com**
+### 🌐 Connect with me:
 
----
-
-### 🔗 Connect with me:
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/anjali-longre-573953258/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/anjali31012004" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,c,cpp,css,git,html,java,js,linux,matlab,mysql,nuxt,php,selenium" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,php,nuxt,mysql,linux,aws,selenium,matlab,git" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Top Languages:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 🔥 GitHub Activity Graph:
+### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=redical" />
 </p>
