@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **DSA and Core Subjects**
+- 🌱 I’m currently learning **DSA **
 - 💬 Ask me about **Data Structures and Algorithms**
 - 📫 Reach me at: **anjalilongre349@gmail.com**
 
