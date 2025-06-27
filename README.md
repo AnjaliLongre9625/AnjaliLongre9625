@@ -1,27 +1,34 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Tech+Explorer+%F0%9F%9A%80;Open+to+Collaboration+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=SDE+Aspiring+Engineer+@+Google;DSA+Lover+%F0%9F%92%AB;System+Design+%26+ML+Explorer;Clean+Code+%7C+Open+Source+Advocate" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=f72585&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0FBF61&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pre-final year student @ NSUT (2026)
-- 💻 550+ LeetCode | 216+ GFG | 700+ Total DSA Problems Solved
-- 🔭 I’m currently working on **Reinforcement Learning in Smart Irrigation (SIPOS)**
-- 🌱 Currently exploring **System Design**, **LLD**, and **Machine Learning**
-- 💬 Ask me about **C++ | Java | DSA | Git | OpenCV | XGBoost | PPO | Q-Learning**
-- 📫 Reach me at: **anjalilongre349@gmail.com**
+- 👩‍💻 Final-year B.Tech Student @ NSUT (Class of 2026)
+- 💡 Strong in **Data Structures
+- 💬 Ask me about: `DSA` 
+- 📫 Contact: [anjalilongre349@gmail.com](mailto:anjalilongre349@gmail.com)
+
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js,php,mysql,nuxt,linux,aws,selenium,matlab,opencv,git" />
+</p>
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-longre-573953258/" target="_blank">
@@ -37,10 +44,11 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,c,html,css,js,php,mysql,nuxt,linux,aws,selenium,matlab,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -48,31 +56,16 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=gruvbox&no-frame=true&row=1&column=5" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=react-dark&area=true&hide_border=true" />
 </p>
-
----
-
-## 🔥 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=redical&area=true&hide_border=true" />
-</p>
-
----
-
-## ✨ Quote that Inspires Me
-
-> *“Stay hungry, stay foolish.” – Steve Jobs*
 
 ---
 
