@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Open+Source+%7C+Machine+Learning+%7C+DSA+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Open+Source+%7C+Machine+Learning+%7C+Clean+Code+Advocate" />
 </p>
 
 <p align="center">
@@ -66,6 +66,8 @@
 
 ---
 
+## 💻 Keep Coding, Keep Growing
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=while(💻){+code();+grow();+improve();+}" />
 </p>
