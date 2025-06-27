@@ -1,34 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anjali</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=SDE+Aspiring+Engineer+@+Google;DSA+Lover+%F0%9F%92%AB;System+Design+%26+ML+Explorer;Clean+Code+%7C+Open+Source+Advocate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Open+Source+%7C+Machine+Learning+%7C+DSA+Lover" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=0FBF61&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anjalilongre9625&label=Profile%20views&color=00F2FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👩‍💻 Final-year B.Tech Student @ NSUT (Class of 2026)
-- 💡 Strong in **Data Structures
-- 💬 Ask me about: `DSA` 
-- 📫 Contact: [anjalilongre349@gmail.com](mailto:anjalilongre349@gmail.com)
-
+- 🎓 B.Tech Final Year @ NSUT (2026)  
+- 💡 Passionate about building efficient and elegant software
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js,php,mysql,nuxt,linux,aws,selenium,matlab,opencv,git" />
-</p>
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-longre-573953258/" target="_blank">
@@ -40,6 +29,14 @@
   <a href="mailto:anjalilongre349@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,c,html,css,js,php,mysql,nuxt,linux,aws,selenium,opencv,matlab,git" />
 </p>
 
 ---
@@ -56,7 +53,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=gruvbox&no-frame=true&row=1&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
