@@ -66,8 +66,7 @@
 
 ---
 
-## 💻 Keep Coding, Keep Growing
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=while(💻){+code();+grow();+improve();+}" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
