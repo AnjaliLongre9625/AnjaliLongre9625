@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Anjali Longre</h1>
+<h1 align="center">Hey 👋 I'm Anjali </h1>
 <h3 align="center">Aspiring Software Engineer | Open Source | ML & Clean Code</h3>
 
 <p align="center">
@@ -40,31 +40,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,c,html,css,js,php,mysql,linux,aws,git,selenium,opencv,matlab&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalilongre9625&show_icons=true&theme=react&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalilongre9625&layout=compact&theme=react&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjalilongre9625&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🔥 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjalilongre9625&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
